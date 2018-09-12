@@ -1,2 +1,2 @@
 # Toast-Logs
-Will add times I eat toast
+>Wed 12 September, 23:08 ```Toast with no butter``` 
